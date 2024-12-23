@@ -96,7 +96,7 @@ sphinx-automodapi = ">=0.16,<0.19"
 optional = true
 
 [tool.poetry.group.release.dependencies]
-bump-my-version = ">=0.15.3,<0.17.0"
+bump-my-version = ">=0.15.3,<0.30.0"
 
 
 
